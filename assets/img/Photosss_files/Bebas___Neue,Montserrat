@@ -1,0 +1,169 @@
+
+                        @font-face {
+                            font-family: 'Bebas Neue';
+                            src: url('https://content.wepik.com/statics/709955/vc6eLcflad5l8KbFAuo0ymZF8cpVzp2144d8dc-6318-4647-8116-fad2701a206d.ttf') format('truetype');
+                            font-weight: 300;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Bebas Neue';
+                            src: url('https://content.wepik.com/statics/709956/9daFpbWLi6qRhTJMvtZxwrwjVGAfQv0b0f2180-5985-437c-bc70-e76062f878e9.ttf') format('truetype');
+                            font-weight: 400;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Bebas Neue';
+                            src: url('https://content.wepik.com/statics/709957/t45bW8kiQnIkdHQMuF1Opeiqv8d0zo34b9b714-a189-466f-a839-9cde93756e61.ttf') format('truetype');
+                            font-weight: 800;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711805/Montserrat-100.ttf') format('truetype');
+                            font-weight: 100;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711806/Montserrat-100i.ttf') format('truetype');
+                            font-weight: 100;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711807/Montserrat-200.ttf') format('truetype');
+                            font-weight: 200;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711808/Montserrat-200i.ttf') format('truetype');
+                            font-weight: 200;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711809/Montserrat-300.ttf') format('truetype');
+                            font-weight: 300;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711810/Montserrat-300i.ttf') format('truetype');
+                            font-weight: 300;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711811/Montserrat-400.ttf') format('truetype');
+                            font-weight: 400;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711812/Montserrat-400i.ttf') format('truetype');
+                            font-weight: 400;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711813/Montserrat-500.ttf') format('truetype');
+                            font-weight: 500;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711814/Montserrat-500i.ttf') format('truetype');
+                            font-weight: 500;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711815/Montserrat-600.ttf') format('truetype');
+                            font-weight: 600;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711816/Montserrat-600i.ttf') format('truetype');
+                            font-weight: 600;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711817/Montserrat-700.ttf') format('truetype');
+                            font-weight: 700;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711818/Montserrat-700i.ttf') format('truetype');
+                            font-weight: 700;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711819/Montserrat-800.ttf') format('truetype');
+                            font-weight: 800;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711820/Montserrat-800i.ttf') format('truetype');
+                            font-weight: 800;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711821/Montserrat-900.ttf') format('truetype');
+                            font-weight: 900;
+                            font-style: normal;
+                            font-display: block;
+                        }
+                    
+                        @font-face {
+                            font-family: 'Montserrat';
+                            src: url('https://content.wepik.com/statics/711822/Montserrat-900i.ttf') format('truetype');
+                            font-weight: 900;
+                            font-style: italic;
+                            font-display: block;
+                        }
+                    
